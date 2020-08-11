@@ -1,4 +1,27 @@
 .portfolio {
+  .name-font {
+    font-family: "Bungee Inline", cursive;
+    font-size: 36px;
+    color: #fff;
+  }
+
+  .job-title-font {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 20px;
+    color: #fff;
+    padding-bottom: 50px;
+  }
+
+  .footer-section {
+    background-color: #43444d;
+    .footer-font {
+      font-family: "Roboto Condensed", sans-serif;
+      font-size: 16px;
+      color: #fff;
+      text-align: center;
+    }
+  }
+
   .section-header {
     background-color: #43444d;
     color: #fff;

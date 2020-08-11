@@ -3,7 +3,7 @@ import { softwareLogos } from "../../../../constants/constants";
 
 const Experience: React.FC = () => {
   return (
-    <div className="experience-section">
+    <div className="experience-section pb-4">
       <div className="section-header">Work Experience</div>
       <div className="container">
         <div className="row no-gutters row-cols-2 company-header">
