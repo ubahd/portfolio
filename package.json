@@ -1,6 +1,6 @@
 {
   "name": "portfolio",  
-  "homepage": "https://ubahd.github.io/portfolio",
+  "homepage": "http://ubahd.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
