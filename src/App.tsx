@@ -8,7 +8,7 @@ const App: React.FC = () => {
     <div className="App">
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={Portfolio} />
+          <Route exact path="/portfolio" component={Portfolio} />
         </Switch>
       </BrowserRouter>
     </div>
