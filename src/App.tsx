@@ -6,9 +6,9 @@ import Portfolio from "./components/portfolio/Portfolio";
 const App: React.FC = () => {
   return (
     <div className="App">
-      <BrowserRouter basename="/portfolio">
+      <BrowserRouter basename="/">
         <Switch>
-          <Route exact path="/portfolio" component={Portfolio} />
+          <Route exact path="/" component={Portfolio} />
         </Switch>
       </BrowserRouter>
     </div>
