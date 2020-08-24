@@ -10,7 +10,7 @@ const Header: React.FC = () => {
         <div className="col">
           <img className="img" alt="" src={profilePic} />
           <div className="name-font">David Ubah</div>
-          <div className="job-title-font">Sofware Engineer</div>
+          <div className="job-title-font">Software Engineer</div>
         </div>
         <div className="row">
           <div className="col p-2">
