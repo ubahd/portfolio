@@ -10,7 +10,7 @@ const Experience: React.FC = () => {
           <div className="col text-left abel-font-header">
             <strong>College Board</strong> Reston Virginia
           </div>
-          <div className="col abel-font-header">August 2018 – Current</div>
+          <div className="col abel-font-header">August 2018 – August 2020</div>
         </div>
         <div className="mt-3 row-cols-1 company-title">
           <div className="col text-left">
