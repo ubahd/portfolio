@@ -10,7 +10,7 @@ const Experience: React.FC = () => {
       <div className="container">
         <ExperienceSection />
 
-        <div className="text-left pt-5 abel-font-sub-header title company-header">
+        <div className="text-left pt-5 abel-font-sub-header">
           <strong>Technologies</strong>
         </div>
 
