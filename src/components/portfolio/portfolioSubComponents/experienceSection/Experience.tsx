@@ -1,6 +1,6 @@
 import React from "react";
 import { softwareLogos } from "../../../../constants/constants";
-import ExperienceSection from "./experienceSubcompon/ExperienceSection";
+import ExperienceSection from "./experienceSubcomponent/ExperienceSection";
 
 const Experience: React.FC = () => {
 
