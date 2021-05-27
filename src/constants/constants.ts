@@ -299,3 +299,41 @@ export const productivityState = {
     },
   ],
 };
+
+
+export const experienceInfo = [{
+  company:"Key Bank",
+    location:"Cleveland Ohio",
+    timeline:"March 2021 – Current",
+    project:"Key Bank Web/Mobile Application",
+    role:"Software Developer",
+    projectDescription:"This is a web and mobile banking application following existing banking policies and operations integrated with an authentication middleware (Transmit)",
+    responsiblities: [
+      "Provide ongoing maintenance and enhancements in existing systems and platforms.",
+      "Develop single page application using React.js, Bootstrap, SASS, and Redux.",
+      "Develop, maintain, and orchestrate authentication journeys using Transmit.",
+      "Monitoring the application activities, logs, and events using Kibana.",
+      "Software development following the agile methodology.Cross-functional collaborations with data scientists, business users, project managers and other engineers to aid production.",
+      "Run automated code quality checks, unit tests, and code coverage tools using ES-lint, Jest, Mocha to achieve continuous integration.",
+      "Protecting confidential information to support operations.",
+      "Cross-functional collaborations with data scientists, business users, project managers, testers, and engineers to aid production.",
+      "Create technical documentation as required in the form of technical specifications, and project artifacts.",
+      "Develop and discuss best practices for manual code reviews."
+    ]
+},{
+    company:"College Board",
+    location:"Reston Virginia",
+    timeline:"August 2019 – August 2020",
+    project:"Send Scores Application",
+    role:"Software Developer",
+    projectDescription:"This application provides the ability to send pending or available SAT scores to colleges using existing and new policies",
+    responsiblities: [
+      "Provide ongoing maintenance and enhancements in existing systems and platforms.",
+      "Software development using agile methodology.",
+      "Run automated code quality checks, unit tests and code coverage tools using ES-lint, Jest, Mocha in order to achieve continuous integration.",
+      "Protecting confidential information to support operations.",
+      "Cross-functional collaborations with data scientists, business users, project managers and other engineers to aid production.",
+      "Creating and documenting algorithms using flowcharts, layouts, diagrams, and charts.",
+      "Develop and discuss best practices for manual code reviews."
+    ]
+}]

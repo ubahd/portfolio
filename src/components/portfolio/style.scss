@@ -89,6 +89,11 @@
       padding: 30px;
     }
 
+    .title {
+      margin-left: 250px;
+      margin-right: 250px;
+    }
+
     .logo-size {
       width: 100px;
       height: 100px;
@@ -126,8 +131,6 @@
 
     .container {
       background-color: #ffffff;
-      border-left: 5px solid #43444d;
-      border-right: 5px solid #43444d;
       border-bottom: 5px solid #43444d;
       border-bottom-left-radius: 20px;
       border-bottom-right-radius: 20px;
