@@ -323,7 +323,7 @@ export const experienceInfo = [{
 },{
     company:"College Board",
     location:"Reston Virginia",
-    timeline:"August 2019 – August 2020",
+    timeline:"August 2019 – December 2020",
     project:"Send Scores Application",
     role:"Software Developer",
     projectDescription:"This application provides the ability to send pending or available SAT scores to colleges using existing and new policies",
