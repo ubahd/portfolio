@@ -323,7 +323,7 @@ export const experienceInfo = [{
 },{
     company:"College Board",
     location:"Reston Virginia",
-    timeline:"August 2019 – December 2020",
+    timeline:"July 2019 – November 2020",
     project:"Send Scores Application",
     role:"Software Developer",
     projectDescription:"This application provides the ability to send pending or available SAT scores to colleges using existing and new policies",
@@ -336,4 +336,41 @@ export const experienceInfo = [{
       "Creating and documenting algorithms using flowcharts, layouts, diagrams, and charts.",
       "Develop and discuss best practices for manual code reviews."
     ]
-}]
+  },{
+    company: "Revature",
+    location: "Reston Virginia",
+    timeline: "May 2019 – November 2020",
+    project: "Reimbursement Application",
+    role: "Software Developer",
+    projectDescription: "This application provides the ability to make a reimbursement request as well as calculating the employees eligibility",
+    responsiblities: [
+      "Provide ongoing maintenance and enhancements in existing systems and platforms.",
+      "Develop reusable components and widgets using React.js, Bootstrap, SASS, and Redux.",
+      "Develop Restful APIs using Node.js, JavaScript and Express.js.",
+      "Develop Restful APIs in Java using Spring boot and Hibernate for performing CRUD transactions.",
+      "Software development with agile methodology.",
+      "Run automated code quality checks, unit tests, and code coverage tools using ES-lint, Jest, Mocha in order to achieve continuous integration.",
+      "Protecting confidential information to support operations.",
+      "Cross-functional collaborations with data scientists, business users, project managers, and engineers to aid production.",
+      "Creating and documenting algorithms using flowcharts, layouts, diagrams, and charts.",
+      "Adhering to WCAG standards during development.",
+      "Develop and discuss best practices for manual code reviews."
+    ]
+  }, {
+    company: "Lumi",
+    location: "New York",
+    timeline: "June 2017 – May 2019",
+    project: "Application for requesting DNA testing kits",
+    role: "Software Developer",
+    projectDescription: "This application allows end users to request DNA testing kits, which are then mailed to their specified address.",
+    responsiblities: [
+      "Developing user interfaces using Angular 5, Node.js, HTML 5, CSS3. ",
+      "Ensuring responsiveness and cross-browser compatibility in the main web application using a wireframing tool such as InVision.",
+      "Optimizing web application performance via caching and code minification. ",
+      "Collaborating with designers and back-end developers. ",
+      "Developing and maintaining clean code. ",
+      "Testing and debugging functionalities using Jest and Mocha.",
+      "Documentation and knowledge sharing."
+    ]
+  }
+]
